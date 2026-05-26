@@ -1,12 +1,12 @@
-# Priya Jain Main Portfolio
+# Priya Jain Portfolio
 
-## Portfolio
-**[View Portfolio](https://priyajain1999.github.io/priya-jain-portfolio/)**
+Professional portfolio showcasing projects and skills.
 
-## Resume
-**[View Resume](https://priyajain1999.github.io/priya-jain-resume/)**
+## View Portfolio
 
----
+**[View Portfolio Online](https://ipriyajain.github.io/priya-jain-portfolio/)**
 
-- **Portfolio Repository**: https://github.com/priyajain1999/priya-jain-portfolio
-- **Resume Repository**: https://github.com/priyajain1999/priya-jain-resume
+## Repository
+
+- **GitHub**: https://github.com/ipriyajain/priya-jain-portfolio
+- **Author**: ipriyajain
